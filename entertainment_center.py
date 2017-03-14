@@ -2,7 +2,7 @@ import stevemovies
 import media
 
 
-#Generate instances of the movie object to represent favourite movies.  
+# Generate instances of the movie object to represent favourite movies.  
 
 pulp_fiction = media.Movie("Pulp Fiction",
                            "You won't know the facts until you've seen the "
@@ -42,7 +42,7 @@ twenty_eight_days_later = media.Movie("28 Days Later",
                         "https://www.youtube.com/watch?v=HEkJAaGhJhQ")
 
 
-#Store movie instances as an array so it can be passed to stevemovies
+# Store movie instances as an array so it can be passed to stevemovies
 
 movie_array = [pulp_fiction, the_big_lebowski, goon, memento, prestige,
                twenty_eight_days_later]

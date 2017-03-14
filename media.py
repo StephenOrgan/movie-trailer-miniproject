@@ -8,6 +8,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-    #open the trailer youtube url in a new modal window
+    # open the trailer youtube url in a new modal window
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)

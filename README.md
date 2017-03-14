@@ -2,18 +2,18 @@
 
 Steve is a Move Trailer Website where anyone can browse through Steve's favourite movies and watch trailers.
 
-##Setup
+## Setup
 
 You can run this project with two different options - via cloning from GitHub or executing `entertainment_center.py`:
 
-###GitHub
+### GitHub
 Source Code: It is available on github. Clone the project using `git clone` command or fork the project to provide contributions.
-  ># Cloning project directly
-  >$ git clone https://github.com/rahulrrixe/movie-trailer-site
-  ># Cloning forked project
-  >$ git clone https://github.com/your-github-username/movie-trailer-site
+  > # Cloning project directly
+  > $ git clone https://github.com/StephenOrgan/movie-trailer-miniproject
+  > # Cloning forked project
+  > $ git clone https://github.com/your-github-username/movie-trailer-miniproject
 
-###Executing entertainment_center.py
+### Executing entertainment_center.py
 
 To generate the HTML file for the website, type the following command.
 
@@ -21,7 +21,7 @@ To generate the HTML file for the website, type the following command.
 
 This will generate a html file named stevemovies.html in the same folder and it will overwrite the existing file if one already exits. 
 
-##Modules
+## Modules
 
 There are three modules in the projects
 

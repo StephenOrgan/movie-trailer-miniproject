@@ -8,16 +8,16 @@ You can run this project with two different options - via cloning from GitHub or
 
 ### GitHub
 Source Code: It is available on github. Clone the project using `git clone` command or fork the project to provide contributions.
-  > # Cloning project directly
-  > $ git clone https://github.com/StephenOrgan/movie-trailer-miniproject
-  > # Cloning forked project
-  > $ git clone https://github.com/your-github-username/movie-trailer-miniproject
+  ` # Cloning project directly `
+  ` $ git clone https://github.com/StephenOrgan/movie-trailer-miniproject `
+  ` # Cloning forked project `
+  ` $ git clone https://github.com/your-github-username/movie-trailer-miniproject `
 
 ### Executing entertainment_center.py
 
 To generate the HTML file for the website, type the following command.
 
-    `$ python entertainment_center.py`
+` $ python entertainment_center.py `
 
 This will generate a html file named stevemovies.html in the same folder and it will overwrite the existing file if one already exits. 
 

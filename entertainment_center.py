@@ -5,7 +5,8 @@ import media
 #Generate instances of the movie object to represent favourite movies.  
 
 pulp_fiction = media.Movie("Pulp Fiction",
-                           "You won't know the facts until you've seen the fiction.",
+                           "You won't know the facts until you've seen the "
+                           "fiction.",
                            "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_(1994)_poster.jpg",
                            "https://www.youtube.com/watch?v=s7EdQ4FqbhY")
 

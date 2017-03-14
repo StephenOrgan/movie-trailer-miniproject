@@ -11,7 +11,9 @@ Source Code: It is available on github. Clone the project using `git clone` comm
  ``` ### Cloning project directly 
    $ git clone https://github.com/StephenOrgan/movie-trailer-miniproject 
    ### Cloning forked project `
-   $ git clone https://github.com/your-github-username/movie-trailer-miniproject ```
+   $ git clone https://github.com/your-github-username/movie-trailer-miniproject 
+
+   ```
 
 ## Executing entertainment_center.py
 

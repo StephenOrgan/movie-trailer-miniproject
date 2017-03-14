@@ -23,7 +23,7 @@ To generate the HTML file for the website, type the following command.
 
 ` $ python entertainment_center.py `
 
-This will generate an html file named stevemovies.html in the same folder and it will overwrite an existing file if one with the same name already exits. 
+This will generate an html file named stevemovies.html in the same folder and it will overwrite an existing file if one with the same name already exists. 
 
 ## Modules
 

@@ -8,9 +8,10 @@ You can run this project with two different options - via cloning from GitHub or
 
 ## GitHub
 Source Code: It is available on github. Clone the project using `git clone` command or fork the project to provide contributions.
- ``` ### Cloning project directly 
+ ``` 
+   #Clone the repository directly 
    $ git clone https://github.com/StephenOrgan/movie-trailer-miniproject 
-   ### Cloning forked project `
+   # Clone a forked repository `
    $ git clone https://github.com/your-github-username/movie-trailer-miniproject 
 
    ```
